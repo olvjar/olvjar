@@ -6,9 +6,9 @@
 
  **i  work with** `.py`, `.js`, `.html`, `.css`, `.lua`, **and** `.cpp` <br>
  **currently** working on personal projects <br>
- **learning** `.java`, `.ts`, `.php`, `.cs`, `.ruby`, **and**, `.go`
+ **learning** `.java`, `.ts`, `.php`, `.cs`, `.ruby`, **and**, `.go` </details>
 
-<details> <summary> technologies </summary>
+<details> <summary> ⚙️ tools & technologies </summary>
   
   <br>
   
@@ -30,5 +30,5 @@
 
 <br>
 
-[![Visits Badge](https://badges.pufler.dev/visits/olvjar/)](https://github.com/olvjar) 
+[![Visits Badge](https://badges.pufler.dev/visits/olvjar/olvjar)](https://github.com/olvjar) 
 [![Years Badge](https://badges.pufler.dev/years/olvjar)](https://github.com/olvjar)
