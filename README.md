@@ -30,5 +30,5 @@
 
 <br>
 
-[![Visits Badge](https://badges.pufler.dev/visits/olvjar/olvjar)](https://github.com/olvjar) 
+[![Visits Badge](https://badges.pufler.dev/visits/olvjar/)](https://github.com/olvjar) 
 [![Years Badge](https://badges.pufler.dev/years/olvjar)](https://github.com/olvjar)
