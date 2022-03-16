@@ -4,9 +4,9 @@
 </p>
 <h2></h2>
 
-> **i  work with** `.py`, `.js`, `.html`, `.css`, `.lua`, **and** `.cpp` <br>
-> **currently** working on personal projects <br>
-> **learning** `.java`, `.ts`, `.php`, `.cs`, `.ruby`, **and**, `.go`
+ **i  work with** `.py`, `.js`, `.html`, `.css`, `.lua`, **and** `.cpp` <br>
+ **currently** working on personal projects <br>
+ **learning** `.java`, `.ts`, `.php`, `.cs`, `.ruby`, **and**, `.go`
 
 <details> <summary> technologies </summary>
   
@@ -30,5 +30,5 @@
 
 <br>
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://github.com/olvjar) 
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://github.com/olvjar)
+[![Visits Badge](https://badges.pufler.dev/visits/olvjar/olvjar)](https://github.com/olvjar) 
+[![Years Badge](https://badges.pufler.dev/years/olvjar)](https://github.com/olvjar)
