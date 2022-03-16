@@ -4,9 +4,9 @@
 </p>
 <h2></h2>
 
-— **i  work with** `.py`, `.js`, `.html`, `.css`, `.lua`, **and** `.cpp` <br>
-— **currently** working on personal projects <br>
-— **learning** `.java`, `.ts`, `.php`, `.cs`, `.ruby`, **and**, `.go`
+> **i  work with** `.py`, `.js`, `.html`, `.css`, `.lua`, **and** `.cpp` <br>
+> **currently** working on personal projects <br>
+> **learning** `.java`, `.ts`, `.php`, `.cs`, `.ruby`, **and**, `.go`
 
 <details> <summary> technologies </summary>
   
