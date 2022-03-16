@@ -1,7 +1,11 @@
 
-# OLV
-> **i  work with** `.py`, `.js`, `.html`, `.css`, `.lua`, **and** `.cpp` <br>
-> **currently** working on personal projects
+<p align="center">
+  <img src="result.png" alt="result">
+</p>
+<h2></h2>
+
+**i  work with** `.py`, `.js`, `.html`, `.css`, `.lua`, **and** `.cpp` <br>
+**currently** working on personal projects
 
 <details> <summary> technologies </summary>
   
