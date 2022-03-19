@@ -10,6 +10,7 @@
 <details> <summary> 🗄 currently working on </summary> <br>
 
     personal projects
+    working for some certifications
   
 </details>
 
