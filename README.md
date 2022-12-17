@@ -39,8 +39,3 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
  
 </details>
-
-<br>
-
-[![Visits Badge](https://badges.pufler.dev/visits/olvjar/olvjar)](https://github.com/olvjar) 
-[![Years Badge](https://badges.pufler.dev/years/olvjar)](https://github.com/olvjar)
