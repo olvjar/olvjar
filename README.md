@@ -4,7 +4,7 @@
 </p>
 <h2></h2>
 
- **i  work with** `.py`, `.js`, `.html`, `.css`, `.lua`, **and** `.cpp` <br>
+ **i  work with** `.py`, `.js`, `.html`, `.css`, `.lua`, `.c` **and** `.cpp` <br>
  **learning** `.java`, `.ts`, `.php`, `.cs`, `.ruby`, **and**, `.go` </details>
  
 <details> <summary> 🗄 currently working on </summary> <br>
